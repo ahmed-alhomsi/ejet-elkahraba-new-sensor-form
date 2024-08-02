@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://register-new-sensor.web.app/static/css/main.46dfafc9.css",
+    "main.js": "https://register-new-sensor.web.app/static/js/main.bd2cbd28.js",
+    "static/js/787.c6dfab0b.chunk.js": "https://register-new-sensor.web.app/static/js/787.c6dfab0b.chunk.js",
+    "index.html": "https://register-new-sensor.web.app/index.html",
+    "main.46dfafc9.css.map": "https://register-new-sensor.web.app/static/css/main.46dfafc9.css.map",
+    "main.bd2cbd28.js.map": "https://register-new-sensor.web.app/static/js/main.bd2cbd28.js.map",
+    "787.c6dfab0b.chunk.js.map": "https://register-new-sensor.web.app/static/js/787.c6dfab0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46dfafc9.css",
+    "static/js/main.bd2cbd28.js"
+  ]
+}
